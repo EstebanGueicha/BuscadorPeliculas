@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+
+
+
+.img{
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: auto;
+    height: auto;
+}
+
+.App-section{
+  display: flex;  
+}
+.comp{
+  
+  padding: 20px;
+  margin: auto;
+}
+
+
+
+
+
+
